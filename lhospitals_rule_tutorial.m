@@ -2,7 +2,7 @@
 % Date: 05SEP2021
 % Description: Mod 6 HW
 %
-syms x C
+syms x
 % Given
 %% STEP 1 --
 A = log(5*x);
